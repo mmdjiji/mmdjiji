@@ -1,4 +1,4 @@
-### Hi there! 👋 Welcome to my GitHub. [Go My Blog!](https://mmdjiji.com)
+### Hi there! 👋 Welcome to my GitHub. [Go to My Blog!](https://mmdjiji.com)
 
 ![](https://komarev.com/ghpvc/?username=mmdjiji&color=blue)
 
