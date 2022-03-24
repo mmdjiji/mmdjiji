@@ -1,18 +1,20 @@
 <!-- https://github.com/mmdjiji -->
 
-<header align="center">
-  <h2>JiJi</h2>
-  <h4>Rem is my wife.</h4>
-  <h5>
+<header>
+  <h2 align="center">JiJi</h2>
+  <h4 align="center">Rem is my wife.</h4>
+  <h5 align="center">
     <a href="https://mmdjiji.com">Blog</a>&emsp;•&emsp;
     <a href="https://t.me/mmdjiji">Telegram</a>&emsp;•&emsp;
     <a href="https://space.bilibili.com/11955810">Bilibili</a>
+    <br><br>
+    <img align="center" src="https://img.shields.io/badge/Call%20sign-BI1IDJ-yellow" />&emsp;
+    <img align="center" src="https://komarev.com/ghpvc/?username=mmdjiji&color=blue" />&emsp;
+    <img align="center" src="https://img.shields.io/badge/Love-Rem%20(%E3%83%AC%E3%83%A0)-%23ff69b4" />
   </h5>
-  <br>
-
-  ![Profile views](https://komarev.com/ghpvc/?username=mmdjiji&color=blue)
-
 </header>
+
+<br>
 
 <a href="https://sourcerer.io/satouriko"><img align="right" src="https://github-readme-stats.vercel.app/api?username=mmdjiji&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="150" /></a>
 
