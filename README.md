@@ -1,12 +1,6 @@
 <!-- https://github.com/mmdjiji -->
 
-<style>
-  header {
-    text-align: center;
-  }
-</style>
-
-<header>
+<header align="center">
   <h2>JiJi</h2>
   <h4>Rem is my wife.</h4>
   <h5>
