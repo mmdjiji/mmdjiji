@@ -58,3 +58,5 @@
 **PGP KEY:**
 
 <code><a href="pgp.asc"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/GnuPG-Logo.svg" alt="gpg" height="25" /></a></code>
+
+<img align="center" src="https://raw.githubusercontent.com/mmdjiji/mmdjiji/output/github-contribution-grid-snake.svg" />
