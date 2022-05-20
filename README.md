@@ -22,7 +22,7 @@
 * 🌙 Night - Sleep
 * 💻 Skills - CS & EE
 * ❤️ [Love](https://jiji.love) - Rem is my wife
-* 🎀 Hobby - Watch [Bangumis](https://mmdjiji.com/bangumis), Writing, [Amateur Radio](https://github.com/mmdjiji/amateur-radio)
+* 🎀 Hobby - Watching [Bangumis](https://mmdjiji.com/bangumis), Playing [Amateur Radio](https://github.com/mmdjiji/amateur-radio)
 * 💌 Email - i@mmdjiji.com
 * ⛪ Live in Beijing, China
 
