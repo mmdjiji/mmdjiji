@@ -31,7 +31,7 @@
 <a href="https://twitter.com/mmdjiji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mmdjiji" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mmdjiji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mmdjiji" height="30" width="40" /></a>
 <a href="https://kaggle.com/mmdjiji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mmdjiji" height="30" width="40" /></a>
-<a href="/https://mmdjiji.com/atom.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://mmdjiji.com/atom.xml" height="30" width="40" /></a>
+<a href="https://mmdjiji.com/atom.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://mmdjiji.com/atom.xml" height="30" width="40" /></a>
 </p>
 
 **Languages and Tools:**
