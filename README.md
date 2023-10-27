@@ -1,62 +1,39 @@
 <!-- https://github.com/mmdjiji -->
 
 <header>
-  <h2 align="center"><img src="header.svg" /></h2>
-  <h4 align="center">Rem is my wife.</h4>
-  <h5 align="center">
-    <a href="https://mmdjiji.com">Blog</a>&emsp;•&emsp;
-    <a href="https://t.me/mmdjiji">Telegram</a>&emsp;•&emsp;
-    <a href="https://space.bilibili.com/11955810">Bilibili</a>
-    <br><br>
-    <img align="center" src="https://img.shields.io/badge/Call%20sign-BI1IDJ-yellow" />&emsp;
-    <img align="center" src="https://komarev.com/ghpvc/?username=mmdjiji&color=blue" />&emsp;
-    <img align="center" src="https://img.shields.io/badge/Love-Rem%20(%E3%83%AC%E3%83%A0)-%23ff69b4" />
-  </h5>
+<h2 align="center"><img src="header.svg" /></h2>
+<h4 align="center">
+<a href="https://mmdjiji.com">Blog</a>
+&emsp;•&emsp;
+<a href="https://t.me/mmdjiji">Telegram</a>
+&emsp;•&emsp;
+<a href="https://space.bilibili.com/11955810">Bilibili</a>
+</h4>
+<h3 align="center">Professor of <a href="https://github.com/HMUniversity">@HMUniversity</a>. Proficient in network engineering and cloud native.</h3>
+
+- ⛪ Home town - **Beijing, China**
+
+- 📫 Email - **i@mmdjiji.com**
+
+- ❤️ Hobby - **[Watching bangumis](https://mmdjiji.com/bangumis)**
+
+- 🎀 Maybe - **Cosplay, Kigurumi**
+
 </header>
 
-<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mmdjiji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mmdjiji" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mmdjiji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mmdjiji" height="30" width="40" /></a>
+<a href="https://kaggle.com/mmdjiji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mmdjiji" height="30" width="40" /></a>
+<a href="/https://mmdjiji.com/atom.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://mmdjiji.com/atom.xml" height="30" width="40" /></a>
+</p>
 
-<a href="https://sourcerer.io/satouriko"><img align="right" src="https://github-readme-stats.vercel.app/api?username=mmdjiji&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="150" /></a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-* ☀️ Daytime - Coding
-* 🌙 Night - Sleep
-* 💻 Skills - CS & EE
-* ❤️ [Love](https://jiji.love) - Rem is my wife
-* 🎀 Hobby - Watching [Bangumis](https://mmdjiji.com/bangumis), Playing [Amateur Radio](https://github.com/mmdjiji/amateur-radio)
-* 💌 Email - i@mmdjiji.com
-* ⛪ Live in Beijing, China
+<h3 align="left">PGP Key:</h3>
 
----
-
-<a href="https://github.com/mmdjiji"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmdjiji&layout=compact&theme=dracula" height="150" /></a>
-
-**Skillful with:**
-
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="25"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" height="25"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" height="25"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" height="25"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" height="25"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" height="25"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" height="25"/></code>
-
-**Familiar with:**
-
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="25"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="25"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="25"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="25"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" height="25"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" height="25"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" height="25"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" height="25"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" height="25"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" height="25"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" height="25"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="25"/></code>
-
-**PGP KEY:**
-
-<code><a href="pgp.asc"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/GnuPG-Logo.svg" alt="gpg" height="25" /></a></code>
+<code><a href="pgp.asc"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/GnuPG-Logo.svg" alt="pgp" height="40"/></a></code>
 
 <img align="center" src="https://raw.githubusercontent.com/mmdjiji/mmdjiji/output/github-contribution-grid-snake.svg" />
