@@ -9,7 +9,7 @@
 &emsp;•&emsp;
 <a href="https://space.bilibili.com/11955810">Bilibili</a>
 </h4>
-<h3 align="center">Professor of <a href="https://github.com/HMUniversity">@HMUniversity</a>. Proficient in network engineering and cloud native.</h3>
+<h3 align="center"><span>Professor of </span><a href="https://github.com/HMUniversity">@HMUniversity</a>. Proficient in network engineering and cloud native.</h3>
 
 - ⛪ Home town - **Beijing, China**
 
