@@ -27,7 +27,7 @@
 </header>
 
 
-
+![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,js,ts,nodejs,kotlin,c,cpp,py,pytorch,dotnet,php,html,css,md,git,bash,vim,vscode,idea,nginx,grafana,prometheus,postgres,mongodb,redis,apollo,selenium,sqlite,obsidian,apple,windows,ubuntu,kali,aws,cloudflare,github,gitlab,figma,raspberrypi,arduino,gmail,linkedin,instagram,discord&perline=15)
 
 
 <img align="center" src="https://raw.githubusercontent.com/mmdjiji/mmdjiji/output/github-contribution-grid-snake.svg" />
