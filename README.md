@@ -19,8 +19,8 @@
 - I'm applying **MSc in Intelligent Science & Technology** from [Beijing Normal University](https://www.bnu.edu.cn), I got **B. Eng in Computer Science & Technology** from [Capital Normal University](https://www.cnu.edu.cn).
 - I started learning programming from 2011, and my first language was Visual Basic.
 - I enjoy watching anime, why not [browse my watchlist](https://mmdjiji.com/bangumis).
-- [Xiaomi](https://ir.mi.com)'s long-term investor. Previously worked as an **Android Framework Engineer** at [Xiaomi](https://www.mi.com) (2025.6-2025.8), and had the honor of participating in the development of HyperOS 3.
-- Previously worked as a **Backend Engineer** at [Bitmain](https://www.bitmain.com) (2025.3-2025.5), participating in the development of the internal instant messaging software AppiaIM.
+- [Xiaomi](https://ir.mi.com)'s long-term investor. Previously worked as an **Android Framework Engineer** at [Xiaomi](https://www.mi.com) (2025.6-2025.8), and had the honor of participating in the development of [HyperOS 3](https://hyperos.mi.com/).
+- Previously worked as a **Backend Engineer** at [Bitmain](https://www.bitmain.com) (2025.3-2025.5), participating in the development of the internal instant messaging software [AppiaIM](https://apps.apple.com/cn/app/appia/id1630882554).
 - Contact me via my email **i@mmdjiji.com**.
 
 
